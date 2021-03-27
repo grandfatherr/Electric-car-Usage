@@ -18,4 +18,4 @@ The dataset used in this project was provided and will be linked above. The proc
 Being a data science project, the project required data analysis and manipulation which was to be done by Python programming language using the Pandas Library. To track our tasks, we have used the Trello tool.
 
 ## Support and contact details
-In case of any querries, corrections or additions, feel free to reach me and share. Corrections are most welcome since I have just begun the journey and being pointed in the right direction would actually go a long way in helping me grow and learn and become a better data scientist. The goal of data is insight and if you find insight, do let me know.
+In case of any querries, corrections or additions, feel free to reach me and share. Corrections are most welcome since I have just begun the journey and being pointed in the right direction would actually go a long way in helping me grow and learn and become a better data scientist. The goal of data is insight and if you find insight that I didn't, do let me know.
